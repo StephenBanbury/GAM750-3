@@ -1,6 +1,5 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using GameServer;
 using UnityEngine;
 
 public class ClientSend : MonoBehaviour
@@ -30,15 +29,6 @@ public class ClientSend : MonoBehaviour
         }
     }
 
-    public static void UDPTestReceived()
-    {
-        using (Packet _packet = new Packet((int) ClientPackets.udpTestReceived))
-        {
-            _packet.Write("Received a UDP packet.");
-
-            SendUDPData(_packet);
-        }
-    }
     #endregion
 
 }

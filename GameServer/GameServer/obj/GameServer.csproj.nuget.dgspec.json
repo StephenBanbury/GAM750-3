@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Unity\\GAM750 Experiments\\C#NetworkingTutorial\\GameServer\\GameServer\\GameServer.csproj": {}
+    "D:\\Dev\\Repositories\\GAM750-3\\GameServer\\GameServer\\GameServer.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Unity\\GAM750 Experiments\\C#NetworkingTutorial\\GameServer\\GameServer\\GameServer.csproj": {
+    "D:\\Dev\\Repositories\\GAM750-3\\GameServer\\GameServer\\GameServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Unity\\GAM750 Experiments\\C#NetworkingTutorial\\GameServer\\GameServer\\GameServer.csproj",
+        "projectUniqueName": "D:\\Dev\\Repositories\\GAM750-3\\GameServer\\GameServer\\GameServer.csproj",
         "projectName": "GameServer",
-        "projectPath": "D:\\Dev\\Unity\\GAM750 Experiments\\C#NetworkingTutorial\\GameServer\\GameServer\\GameServer.csproj",
+        "projectPath": "D:\\Dev\\Repositories\\GAM750-3\\GameServer\\GameServer\\GameServer.csproj",
         "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Unity\\GAM750 Experiments\\C#NetworkingTutorial\\GameServer\\GameServer\\obj\\",
+        "outputPath": "D:\\Dev\\Repositories\\GAM750-3\\GameServer\\GameServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

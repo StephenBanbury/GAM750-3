@@ -1,1 +1,15 @@
+C# Networking Tutorial
+Tom Weiland
+
+Part 1: Connecting Unity Clients to a Dedicated Server 
 https://www.youtube.com/watch?v=uh8XaC0Y5MA
+
+Part 2: Sending and Receiving Data Unsing TCP
+https://www.youtube.com/watch?v=4uHTSknGJaY
+
+Part 3: Implementing UDP Communication Between Clients and the Server
+https://www.youtube.com/watch?v=QajkUJeypy4
+
+Part 4: Spawning Players and Adding Basic Player Movement
+https://www.youtube.com/watch?v=_h6Ta-vxAzQ&t=304s
+
