@@ -1,0 +1,13 @@
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+D:\Dev\Unity\GAM750 Experiments\C#NetworkingTutorial\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
