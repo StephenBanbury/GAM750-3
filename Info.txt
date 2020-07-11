@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=QajkUJeypy4
 Part 4: Spawning Players and Adding Basic Player Movement
 https://www.youtube.com/watch?v=_h6Ta-vxAzQ&t=304s
 
+Part 5: Properly Handling Disconnections
+https://www.youtube.com/watch?v=Q3G_BBpbCek
+

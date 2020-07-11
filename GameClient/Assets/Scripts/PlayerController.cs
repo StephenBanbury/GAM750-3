@@ -20,7 +20,6 @@ public class PlayerController : MonoBehaviour
             Input.GetKey(KeyCode.D),
         };
 
-        Debug.Log(_inputs);
         ClientSend.PlayerMovement(_inputs);
     }
 }
